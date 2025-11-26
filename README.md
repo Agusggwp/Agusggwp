@@ -1,40 +1,38 @@
-# Hi there 👋, I'm Agus!
-
-![Profile Banner](https://user-images.githubusercontent.com/USERNAME/BANNER_IMAGE_URL) <!-- opsional -->
+# Hai 👋, Aku Agus!
 
 ---
 
-## 🔭 About Me
-I'm a passionate developer currently working on **Laravel, Flutter, and React projects**.  
-I love building modern web apps, automation tools, and exploring new tech.
+## 🔭 Tentang Aku
+Aku seorang developer yang senang bekerja dengan **Laravel, Flutter, dan React**.  
+Suka membangun aplikasi web dan mobile yang modern dan efisien.
 
-## 🌱 Currently Learning
-- Advanced **Laravel 12**
-- **Flutter** mobile app development
-- **Tailwind CSS** & responsive web design
-- AI & automation tools  
+## 🌱 Sedang Belajar
+- 🔹 Laravel 12 Lanjutan  
+- 🔹 Flutter Mobile App Development  
+- 🔹 Tailwind CSS & Desain Responsif  
+- 🔹 AI & Otomatisasi  
 
-## 👯 Looking to Collaborate On
-- Open-source projects
-- Web & mobile apps
-- Innovative tech solutions
+## 👯 Ingin Berkolaborasi
+- Proyek open-source  
+- Aplikasi web & mobile  
+- Solusi teknologi inovatif  
 
-## 💬 Ask Me About
-- Laravel, Flutter, React
-- API development & integration
-- Git & version control
-- Project management & deployment
+## 💬 Bisa Ditanyakan Tentang
+- Laravel, Flutter, React  
+- Pengembangan & integrasi API  
+- Git & version control  
+- Deployment & manajemen proyek  
 
-## 📫 How to Reach Me
-- Email: `your.email@example.com`
-- LinkedIn: [Agusggwp](https://linkedin.com/in/your-linkedin)
-- Instagram: [@agusggwp](https://instagram.com/agusggwp)
-
-## ⚡ Fun Fact
-- Coffee lover ☕ & night coder 🌙  
-- Always learning, always improving 🚀
+## ⚡ Fakta Menarik
+- Pecinta kopi ☕ dan coder malam hari 🌙  
+- Selalu belajar dan meningkatkan kemampuan 🚀  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agusggwp&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agusggwp&layout=compact&theme=radical)
+## 🛠 Skill
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
