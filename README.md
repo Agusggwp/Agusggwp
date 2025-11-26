@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋, I'm Agus!
 
-<!--
-**Agusggwp/Agusggwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://user-images.githubusercontent.com/USERNAME/BANNER_IMAGE_URL) <!-- opsional -->
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 About Me
+I'm a passionate developer currently working on **Laravel, Flutter, and React projects**.  
+I love building modern web apps, automation tools, and exploring new tech.
+
+## 🌱 Currently Learning
+- Advanced **Laravel 12**
+- **Flutter** mobile app development
+- **Tailwind CSS** & responsive web design
+- AI & automation tools  
+
+## 👯 Looking to Collaborate On
+- Open-source projects
+- Web & mobile apps
+- Innovative tech solutions
+
+## 💬 Ask Me About
+- Laravel, Flutter, React
+- API development & integration
+- Git & version control
+- Project management & deployment
+
+## 📫 How to Reach Me
+- Email: `your.email@example.com`
+- LinkedIn: [Agusggwp](https://linkedin.com/in/your-linkedin)
+- Instagram: [@agusggwp](https://instagram.com/agusggwp)
+
+## ⚡ Fun Fact
+- Coffee lover ☕ & night coder 🌙  
+- Always learning, always improving 🚀
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agusggwp&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agusggwp&layout=compact&theme=radical)
