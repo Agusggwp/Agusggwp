@@ -1,4 +1,4 @@
-<!-- 🎨 GANTI 'USERNAME_GITHUB_KAMU' dengan username GitHub asli kamu di seluruh file ini -->
+<!-- 🎨 GitHub Profile README - Agusggwp -->
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d1117,50:1a1a2e,100:6C63FF&text=Agus&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20239%2B%20Commits%20%7C%20Indonesia%20🇮🇩&descAlignY=58&descSize=20" width="100%"/>
 
@@ -9,9 +9,9 @@
 <br/>
 
 <!-- Real-time Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=6C63FF&style=for-the-badge&label=👀+PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/USERNAME_GITHUB_KAMU?style=for-the-badge&color=6C63FF&labelColor=0d1117&label=Followers)](https://github.com/USERNAME_GITHUB_KAMU)
-[![GitHub Stars](https://img.shields.io/github/stars/USERNAME_GITHUB_KAMU?style=for-the-badge&color=6C63FF&labelColor=0d1117&label=Total%20Stars)](https://github.com/USERNAME_GITHUB_KAMU)
+![Profile Views](https://komarev.com/ghpvc/?username=Agusggwp&color=6C63FF&style=for-the-badge&label=👀+PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Agusggwp?style=for-the-badge&color=6C63FF&labelColor=0d1117&label=Followers)](https://github.com/Agusggwp)
+[![GitHub Stars](https://img.shields.io/github/stars/Agusggwp?style=for-the-badge&color=6C63FF&labelColor=0d1117&label=Total%20Stars)](https://github.com/Agusggwp)
 
 <br/>
 
@@ -163,18 +163,18 @@ const agus = {
 <div align="center">
 
 <!-- GitHub Stats Cards - Real Data -->
-<a href="https://github.com/USERNAME_GITHUB_KAMU">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=6C63FF&title_color=6C63FF&text_color=ffffff&ring_color=6C63FF&include_all_commits=true&count_private=true&custom_title=Agus%27%20GitHub%20Stats"/>
+<a href="https://github.com/Agusggwp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agusggwp&show_icons=true&theme=react&bg_color=0d1117&hide_border=true&icon_color=6C63FF&title_color=6C63FF&text_color=ffffff&ring_color=6C63FF&include_all_commits=true&count_private=true&custom_title=Agus%27%20GitHub%20Stats"/>
 </a>
-<a href="https://github.com/USERNAME_GITHUB_KAMU">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=donut&theme=react&bg_color=0d1117&hide_border=true&title_color=6C63FF&text_color=ffffff&langs_count=6"/>
+<a href="https://github.com/Agusggwp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agusggwp&layout=donut&theme=react&bg_color=0d1117&hide_border=true&title_color=6C63FF&text_color=ffffff&langs_count=6"/>
 </a>
 
 <!-- Streak Stats -->
-<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=react&background=0d1117&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=888888"/>
+<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=Agusggwp&theme=react&background=0d1117&hide_border=true&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=888888"/>
 
 <!-- Activity Graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_KAMU&theme=react-dark&bg_color=0d1117&hide_border=true&line=6C63FF&point=FF6B6B&color=ffffff&area=true&area_color=6C63FF"/>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Agusggwp&theme=react-dark&bg_color=0d1117&hide_border=true&line=6C63FF&point=FF6B6B&color=ffffff&area=true&area_color=6C63FF"/>
 
 ---
 
@@ -300,7 +300,7 @@ const agus = {
 ## 🏆 **GitHub Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_GITHUB_KAMU&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Agusggwp&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" width="100%"/>
 </div>
 
 ---
@@ -395,18 +395,9 @@ const agus = {
 
 <!--
 ╔═══════════════════════════════════════════════════════════════════╗
-║  🔧 CARA MENGGUNAKAN README INI:                                  ║
+║  🎉 README Profile GitHub - Agusggwp                             ║
+║  📊 Stats mengambil data real-time dari GitHub API               ║
 ║                                                                   ║
-║  1. Ganti semua "USERNAME_GITHUB_KAMU" dengan username GitHub     ║
-║     asli kamu (contoh: agusdev, agus123, dll)                    ║
-║                                                                   ║
-║  2. Update link sosial media dengan link asli kamu               ║
-║                                                                   ║
-║  3. Untuk Snake Animation, setup GitHub Actions:                 ║
-║     - Buat file .github/workflows/snake.yml                      ║
-║     - Copy template dari github.com/platane/snk                  ║
-║                                                                   ║
-║  4. Stats akan otomatis update dari GitHub API                   ║
-║                                                                   ║
+║  TODO: Update link sosial media dengan link asli kamu            ║
 ╚═══════════════════════════════════════════════════════════════════╝
 -->
